@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Loch-assignment/static/css/main.0c0e9531.css",
+    "main.js": "/Loch-assignment/static/js/main.b8048195.js",
+    "index.html": "/Loch-assignment/index.html",
+    "main.0c0e9531.css.map": "/Loch-assignment/static/css/main.0c0e9531.css.map",
+    "main.b8048195.js.map": "/Loch-assignment/static/js/main.b8048195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0e9531.css",
+    "static/js/main.b8048195.js"
+  ]
+}
